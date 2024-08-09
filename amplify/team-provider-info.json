@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-holidayproject-dev-63784-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267006836:role/amplify-holidayproject-dev-63784-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267006836:role/amplify-holidayproject-dev-63784-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-holidayproject-dev-63784-deployment",
+      "UnauthRoleName": "amplify-holidayproject-dev-63784-unauthRole",
+      "StackName": "amplify-holidayproject-dev-63784",
+      "StackId": "arn:aws:cloudformation:us-east-1:533267006836:stack/amplify-holidayproject-dev-63784/29458d80-5029-11ef-ad1c-0affd24c5719",
+      "AmplifyAppId": "d2ubrm9dzvp587"
+    },
+    "categories": {
+      "auth": {
+        "holidayproject4c791f0d": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2ubrm9dzvp587",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
