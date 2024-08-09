@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -91,3 +92,6 @@ If you want to learn more about creating good readme files then refer the follow
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
 - [Chakra Core](https://github.com/Microsoft/ChakraCore)
 >>>>>>> 74b7ff74f0dfc73da6e3eda76632491732403747
+=======
+# holidayManagerApp
+>>>>>>> 293fa39e13b8ef471ee558ea067631fae9560eb4
